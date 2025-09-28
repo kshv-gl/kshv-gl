@@ -1,6 +1,5 @@
-## Hi there 👋
-
-<!--
+##Hi there 👋
+#<!--
 **kshv-gl/kshv-gl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <h1 align="center">Hi 👋, I'm Keshav Goel</h1>
 <h3 align="center">A passionate frontend developer from Newton School of Technology</h3>
