@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kshv-gl" alt="kshv-gl" /></a> </p>
 
-- 🔭 I’m currently working on a Startup **MediT**
+- 🔭 I’m currently working on a Startup
 
 - 🌱 I’m currently learning **Frontend Development and Programming Languages**
 
