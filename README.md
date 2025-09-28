@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Frontend Development and Programming Languages**
 
-- 🤝 I’m looking for help with **HackCBS 8.0 Hackathon**
+- 🤝 I’m looking for help with **some Hackathon**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kshv-gl](https://github.com/kshv-gl)
 
